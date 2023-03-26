@@ -35,5 +35,5 @@ If this tool is helpful to you, you may consider buying me a cup of coffee. This
 
 <div align="center">
     <img src="./pic/wechat_pay.jpg" width="40%" alt="微信支付">
-    <img src="./pic/alipay.jpg" width="40%" alt="支付宝">
+    <img src="./pic/alipay1.jpg" width="40%" alt="支付宝">
 </div>

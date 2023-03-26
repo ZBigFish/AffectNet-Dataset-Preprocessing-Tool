@@ -1,6 +1,6 @@
 English | [简体中文](README_ch.md)
 # AffectNet Dataset Preprocessing Tool
-This Python tool can help you organize the uncompressed AffectNet dataset into a structure that can be directly read by Pytorch's ImageFolder method. This tool can help you start using the AffectNet dataset for deep learning research more quickly.
+This Python tool can help you organize the uncompressed ``AffectNet`` dataset into a structure that can be directly read by Pytorch's ``ImageFolder`` method. This tool can help you start using the ``AffectNet`` dataset for deep learning research more quickly.
 
 ## How to Use
 

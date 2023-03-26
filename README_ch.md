@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-- 下载并解压缩AffectNet数据集（对于大多数研究，您只需要解压缩``Manually\_Annotated``文件夹中的图像压缩文件``Manually\_Annotated.partX.rar``和相应的标签文件``Manually\_Annotated\_file\_lists.zip``）。
+- 下载并解压缩AffectNet数据集（对于大多数研究，您只需要解压缩``Manually_Annotated``文件夹中的图像压缩文件``Manually_Annotated.partX.rar``和相应的标签文件``Manually_Annotated_file_lists.zip``）。
 - 将此工具放置在``AffectNet``数据集的根目录中。
 - 运行如下代码：
 ```shell

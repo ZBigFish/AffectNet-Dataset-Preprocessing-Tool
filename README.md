@@ -28,12 +28,3 @@ bash reconstruction.sh
 ## Contact Us
 
 If you have any questions or issues while using this tool, please contact us.
-
-## Support the Author
-
-If this tool is helpful to you, you may consider buying me a cup of coffee. This is not mandatory, but your support will motivate me to contribute more to the community. Please note that supporting the author or not will not affect your discussion with me on this project or other related technologies. Thank you for your support!
-
-<div align="center">
-    <img src="./pic/wechat_pay.jpg" width="40%" alt="微信支付">
-    <img src="./pic/alipay1.jpg" width="40%" alt="支付宝">
-</div>
